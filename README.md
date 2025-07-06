@@ -40,7 +40,7 @@
 
 
 
-<div align="left">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="80">
