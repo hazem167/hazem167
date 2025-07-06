@@ -74,8 +74,8 @@
         <br/><sub>SQL Server</sub>
       </td>
       <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-        <br/><sub>MySQL</sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongo logo" />
+        <br/><sub>Mongo DB</sub>
       </td>
       <td align="center" width="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
