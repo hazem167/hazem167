@@ -35,12 +35,12 @@
 
 ###
 
-<h3 align="center">🛠 Language and Tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 ###
 
 
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center" width="80">
